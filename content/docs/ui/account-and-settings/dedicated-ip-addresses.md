@@ -76,7 +76,7 @@ The following are some third party tools available to assist you in maintaining 
 
 * [250ok](https://250ok.com/tools/blacklists/)
 * [Return Path](https://returnpath.com/request-a-demo-social/?sfdc=701000000006Za6&gclid=CIO88sevkcwCFRSPfgod6u8AXA)
-* [Sender Score](https://www.senderscore.org/blacklistlookup/)
+* [Sender Score](https://www.senderscore.org/blocklistlookup/)
 
 
 In addition, SendGrid offers [Expert Services](https://sendgrid.com/solutions/expert-services/) services to Pro and Premier accounts that can help with deliverability and onboarding. Services include how to maintain/improve domain and IP reputation, reviewing message content, dedicated IP configuration, and creating a custom IP warmup plan to name a few.
